@@ -1,7 +1,7 @@
 class Config(object):
     APP_ID = 25062134
     API_HASH = "1c2c6d7244d4576b2baab88337b1233a"
-    BOT_TOKEN = "7016509767:AAHGyELmvA9D6uCz2yPsI5sL4gr7pooU1lI"
+    BOT_TOKEN = ""
     BOT_WORKERS = 40
     SUDO_USERS = "6580023819,6302921275"
     DB_URI = "mongodb+srv://File2Link:File2Link@cluster0.ygj9iuu.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
